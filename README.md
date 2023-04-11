@@ -1,6 +1,8 @@
 # Habit Now Clone
 
-Just a training trying to reflect an awesome app's front the best I can. Zero logic, every widget is stateless. I imagine that with bloc it would stay that way.
+Just a training trying to reflect an awesome app's front the best I can. 
+
+Zero logic, every widget is stateless. I imagine that with bloc it would stay that way.
 
 Link to the official app [HERE](https://play.google.com/store/apps/details?id=com.habitnow&hl=pl&gl=US).
 
