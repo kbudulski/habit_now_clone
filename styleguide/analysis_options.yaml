@@ -1,0 +1,17 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+
+  errors:
+    avoid_setters_without_getters: ignore
+    unnecessary_getters_setters: ignore
+    invalid_annotation_target: ignore
+
+  language:
+    strict-inference: false
+
+linter:
+  rules:
+    depend_on_referenced_packages: false
+    public_member_api_docs: false
+    unnecessary_library_directive: false
